@@ -1,6 +1,3 @@
-Here's the formatted text in Markdown for GitHub display:
-
-```markdown
 # Tutorial: Building 'Nature's Alchemy' - An Intro to Python Programming
 
 Part 1: Setting Up Your Development Environment (1-2 hours)
@@ -103,6 +100,3 @@ Part 7: Collecting Plants (3-5 hours)
 ---
 
 This tutorial is structured to gradually introduce programming concepts, starting from setting up the environment to building interactive functions for a text-based game. The estimated time for each part is a rough guideline and may vary depending on the individual's prior experience and learning pace. Remember, the key to learning programming is practice and curiosity. Happy coding!
-```
-
-You can copy and paste this Markdown code into your GitHub repository's README.md file to display the tutorial nicely.
